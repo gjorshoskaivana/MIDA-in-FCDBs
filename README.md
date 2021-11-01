@@ -27,7 +27,7 @@ Code can be found in [datasets_word_embeddings.ipynb](datasets_word_embeddings.i
 Code can be found in [mean_median_by_category_datasets.ipynb](mean_median_by_category_datasets.ipynb). The final datasets can be found in [datasets/average datasets/traditionalMethods](https://github.com/gjorshoskaivana/MIDA-in-FCDBs/tree/master/datasets/average%20datasets/traditionalMethods) and [datasets/median datasets/traditionalMethods](https://github.com/gjorshoskaivana/MIDA-in-FCDBs/tree/master/datasets/median%20datasets/traditionalMethods) accordingly. 
 
 ## Autoencoder experiments
-There are separate Jypiter notebooks for the experiments using nutrient average values and median values. Each notebook can be run independently. Furthermore, within the notebooks there is a section dedicated to each use case explained in the paper. Each of these sections can be run independently of each other, as long as the sections "Import libraries", "Missingness method", "Imputation Methods", "Evaluation" and "Data Preparation" have been previously run. 
+There are separate Jupyter notebooks for the experiments using nutrient average values and median values. Each notebook can be run independently. Furthermore, within the notebooks there is a section dedicated to each use case explained in the paper. Each of these sections can be run independently of each other, as long as the sections "Import libraries", "Missingness method", "Imputation Methods", "Evaluation" and "Data Preparation" have been previously run. 
 
 To re-produce the experiments using the average nutrient value datasets, run [autoencoder_averageValues.ipynb](autoencoder_averageValues.ipynb). 
 
